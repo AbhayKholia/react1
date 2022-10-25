@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.app_color_container {
+  height: 250px;
+  width: 27%;
+  border: 1px solid black;
+  margin: auto;
+}
